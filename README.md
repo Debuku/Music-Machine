@@ -10,4 +10,10 @@ The UI/UX was designed keeping the same goal in mind with warm, welcoming tones 
 
 In order to use this website, all you've got to do is to run the html file and then play the notes with either the mouse or the keyboard. Yes, it's that simple! We hope our project will prove to be useful for not just music lovers but the general public as well. So here's to more fun, relaxed music making!
 
+===================================================
+
+N.B: Please check the master branch of this repository to access the webpage.
+
+=================================================
+
 S1: Dec 25th 2024
